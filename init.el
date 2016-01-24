@@ -168,3 +168,6 @@
  ;; If there is more than one, they won't work right.
  '(default ((t (:family "ĞÂËÎÌå" :foundry "outline" :slant normal :weight normal :height 113 :width normal)))))
 >>>>>>> 80a9d33ba7428099d1b521bdee6ec1d055111304
+æ€»ç”¨é‡ 12
+-rw-r--r-- 1 aa aa 5022 1æœˆ  24 21:02 init.el
+-rw-r--r-- 1 aa aa    7 1æœˆ  24 21:02 readme.md
