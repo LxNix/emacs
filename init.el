@@ -107,6 +107,16 @@
  ;; Your init file should contain only one such instance.
 
  ;; If there is more than one, they won't work right.
+ custom-set-faces
 
- '(default ((t (:family "�啣��雿�" :foundry "outline" :slant normal :weight normal :height 113 :width normal)))))
-卡卡哈哈
+ ;; custom-set-faces was added by Custom.
+
+ ;; If you edit it by hand, you could mess it up, so be careful.
+
+ ;; Your init file should contain only one such instance.
+
+ ;; If there is more than one, they won't work right.
+
+ '(default ((t (:family "新宋体" :foundry "outline" :slant normal :weight normal :height 113 :width normal)))))
+
+小石头卡卡
