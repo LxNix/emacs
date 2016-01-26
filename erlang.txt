@@ -1,4 +1,4 @@
 显示中文,在shell 或 noshell
-io:setopts([{encoding,unicode}]),
+io:setopts([{encoding,utf8}]),
 io:format("~ts~n",["好"]).
 
